@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>memory layer</name>
+  <description><![CDATA[]]></description>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://guimachiavelli.com/ball.png?1</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://guimachiavelli.com/ball.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://guimachiavelli.com/ball.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://guimachiavelli.com/ball.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://guimachiavelli.com/ball.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://guimachiavelli.com/ball.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://guimachiavelli.com/ball.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://guimachiavelli.com/ball.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://guimachiavelli.com/ball.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://guimachiavelli.com/ball.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://guimachiavelli.com/ball.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://guimachiavelli.com/ball.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://guimachiavelli.com/ball.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://guimachiavelli.com/ball.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://guimachiavelli.com/ball.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://guimachiavelli.com/ball.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://guimachiavelli.com/ball.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://guimachiavelli.com/ball.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://guimachiavelli.com/ball.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://guimachiavelli.com/ball.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://guimachiavelli.com/ball.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://guimachiavelli.com/ball.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://guimachiavelli.com/ball.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://guimachiavelli.com/ball.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://guimachiavelli.com/ball.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>#2 rabbits</name>
+    <description><![CDATA[<div dir="ltr">I stopped on my way back from a party to watch as the rabbits ran around. We never had those in Brazil.</div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>17.974716,59.352612,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#3 electric company</name>
+    <description><![CDATA[<div dir="ltr">Paul was aproached by a young lady from an electric company. On the sign above us, “Au Revoir Simone – 27/08”.</div>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>18.072519,59.314743,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#4 benches</name>
+    <description><![CDATA[<div dir="ltr">I always pictured coming home with someone and sitting on these benches, looking at the sun rising. I did it alone, however.</div>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>17.975876,59.348248,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#5 the church</name>
+    <description><![CDATA[<div dir="ltr">I had just arrived in Stockholm and decided to walk around and draw the city. I kept looking at the passersby.</div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>18.075020,59.326725,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#6 treasure hunt</name>
+    <description><![CDATA[<div dir="ltr">I would never have thought I would sit in the middle of a square and sing christmas carols with people I barely knew. It was warmer than I ever thought possible on Scandinavia. </div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>18.070042,59.325485,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#7 monkey mountain</name>
+    <description><![CDATA[<div dir="ltr">What was the start of all this? (…) Perhaps it is impossible to grasp that answer now.</div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>18.050430,59.320038,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#8 tess calling me</name>
+    <description><![CDATA[<div dir="ltr">Tess was waving at us. I could see something of the future on that gesture.</div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>18.034220,59.315445,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#9 mirtilo</name>
+    <description><![CDATA[<div dir="ltr">Me and Martin walked through these trees. We were looking for blueberries, glasses of wine in hand.</div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>17.977634,59.345997,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#10 drawing in autumn</name>
+    <description><![CDATA[<div dir="ltr">Suddenly, I was greeted by a fleet of italian tourists in segways.</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>18.086908,59.323879,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#11 dark path</name>
+    <description><![CDATA[<div dir="ltr">My heart beat fast every time. Passing through here on the middle of the night brought me memories of being mugged in a park back in Brazil.</div>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>17.974195,59.347759,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#12 dancing elvis</name>
+    <description><![CDATA[<div dir="ltr">We were talking about her girlfriend problems. A miniature Elvis was dancing on the shop window.</div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>18.080954,59.308628,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#13 me, bas and jessika</name>
+    <description><![CDATA[<div dir="ltr">The winter was starting, we were getting food in the supermarket. Later, we would watch a movie.</div>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>18.035324,59.339668,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#14 inga racister på våra gator</name>
+    <description><![CDATA[<div dir="ltr">These were not my streets. Why was I there, taking part in a protest?</div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>18.070471,59.327286,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#15 boys and girls of konstfack</name>
+    <description><![CDATA[<div dir="ltr">We loved art students. Never spoke to any of them, though.</div>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>17.994318,59.299377,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#16 black ice</name>
+    <description><![CDATA[<div dir="ltr">Excited with the winter, I would jump around, unaware that in the night one cannot see the layer of ice over asphalt.</div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>17.994919,59.300255,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#17 snow</name>
+    <description><![CDATA[<div dir="ltr">For some reason, this night seemed darker than any other, trying to find my way to Mattis, treading through the snow.</div>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>17.983149,59.360218,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#18 snow café</name>
+    <description><![CDATA[<div dir="ltr">We had presented a business plan to bank people and entrepreneurs. Miserable task, chocolate cake. Snowstorm.</div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>18.057362,59.342251,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#19 concert</name>
+    <description><![CDATA[<div dir="ltr">I’m sorry. I fled from the concert. Children dancing and singing, families all-around. That was not what I was promised.</div>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>18.082155,59.326221,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#20 walking with the group</name>
+    <description><![CDATA[<div dir="ltr">Erik and I bumped on each other. His comment made me uncomfortable.</div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>18.074226,59.329617,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#21 my favorite street</name>
+    <description><![CDATA[<div dir="ltr">The easiest joke ever, from Bas. I did like the street.</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>18.073797,59.313496,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#22 winter and landet</name>
+    <description><![CDATA[<div dir="ltr">Me, Tess, Audrey and Dan made a promise here. It sounded nice, but we never discussed it again.</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>17.997665,59.299004,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#23 tvärbanan, me and sam</name>
+    <description><![CDATA[<div dir="ltr">There was an ominous tone to his voice. I thought he was being overly dramatic.</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>18.026247,59.309715,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#24 samuel&#39;s boat</name>
+    <description><![CDATA[<div dir="ltr">I stared at the reflexions of the sun in the water. It was a day filled with promise.</div>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>18.061588,59.324635,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#25 minneslund</name>
+    <description><![CDATA[<div class="minneslund" dir="ltr">We thought the walking sticks seemed inappropriate in a graveyard.</div>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>18.098259,59.276340,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#1 first park in sweden</name>
+    <description><![CDATA[<div dir="ltr">I struggled 1to keep up with the pace of swedish native speakers. The ginger guy kept fiddling with his hair, saying he knew a hot guy in my school.</div>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>18.083345,59.312454,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
